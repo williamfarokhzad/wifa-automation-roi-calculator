@@ -1,0 +1,32 @@
+{
+  "initial_cost": 100000,
+  "real_discount_percent": 8,
+  "terminal_resale": 7000,
+  "terminal_removal": 2000,
+  "years": [
+    {
+      "avoided_overtime": 36000,
+      "other_cash_savings": 8000,
+      "running_cost": 9000,
+      "one_time_cost": 0
+    },
+    {
+      "avoided_overtime": 36000,
+      "other_cash_savings": 8000,
+      "running_cost": 9000,
+      "one_time_cost": 0
+    },
+    {
+      "avoided_overtime": 36000,
+      "other_cash_savings": 8000,
+      "running_cost": 9000,
+      "one_time_cost": 0
+    },
+    {
+      "avoided_overtime": 36000,
+      "other_cash_savings": 8000,
+      "running_cost": 9000,
+      "one_time_cost": 0
+    }
+  ]
+}
